@@ -1,0 +1,12 @@
+[submodule "ep-11-practical-component-exercise"]
+	path = ep-11-practical-component-exercise
+	url = git@github.com:carloshdelreal/ep-11-practical-component-exercise.git
+[submodule "laracast-tutorial-components"]
+	path = laracast-tutorial-components
+	url = git@github.com:carloshdelreal/laracast-vue-components.git
+[submodule "laracast-tutorial"]
+	path = laracast-tutorial
+	url = git@github.com:carloshdelreal/laracast-tuto.git
+[submodule "ep-12-component-comunication"]
+	path = ep-12-component-comunication
+	url = git@github.com:carloshdelreal/ep-12-component-comunication.git
